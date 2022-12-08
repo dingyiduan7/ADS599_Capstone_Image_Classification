@@ -11,7 +11,7 @@
 With the medical resource’s shortage, we are trying to look for ways to make healthcare more efficient. Our group aims to use machine learning and deep learning techniques with image classification segments to deploy a product that can identify chest X-ray scans as either an image presenting with pneumonia or without pneumonia with a probability as a confidence score.
 
 ## Dependencies
-We developed the data preparation pipeline and multiple machine learning and deep learning models using TensorFlow and scikit-learn Python libraries. This final model would then be saved and deployed via Flask. 
+We developed the data preparation pipeline and multiple machine learning and deep learning models using TensorFlow and scikit-learn Python libraries in `jupyter notebook`. This final model would then be saved and deployed via Flask in `Spyder`. 
 ```sh
 import tensorflow
 import sklearn
