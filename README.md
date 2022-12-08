@@ -2,10 +2,10 @@
 <div align="right">
 <img src="Image Folder/USD Logo.png" alt="Logo" width="80" height="80">
 </div>
-<h3 align="center"> ADS 599 Capstone Project <br /> 
+<h4 align="center"> ADS 599 Capstone Project <br /> 
   Applied Data Science Master’s Program <br /> 
   Shiley Marcos School of Engineering / University of San Diego 
-</h3>
+</h4>
 
 ## Description
 With the medical resource’s shortage, we are trying to look for ways to make healthcare more efficient. Our group aims to use machine learning and deep learning techniques with image classification segments to deploy a product that can identify chest X-ray scans as either an image presenting with pneumonia or without pneumonia with a probability as a confidence score.
@@ -36,3 +36,6 @@ Contributors names and contact info
 * <a href="https://github.com/dingyiduan7"> Dingyi Duan </a> <br />
 * <a href="https://github.com/evchow"> Eva Chow </a> <br />
 * <a href="https://github.com/Abby-Tan"> Abby Tan </a> <br />
+
+## Version History
+* 0.1 Initial Release
