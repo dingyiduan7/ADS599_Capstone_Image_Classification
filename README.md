@@ -1,6 +1,7 @@
 <h2 align="center"> Image Classification for Pneumonia Detection Using Chest X-Ray Images</h2>
-
-
+<div align="right">
+<img src="Image Folder/USD Logo.png" alt="Logo" width="80" height="80">
+</div>
 <h3 align="center"> ADS 599 Capstone Project <br /> 
   Applied Data Science Master’s Program <br /> 
   Shiley Marcos School of Engineering / University of San Diego 
