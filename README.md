@@ -27,6 +27,7 @@ Our dataset consists of 5,856 X-ray images that split into train, validate and t
 ## Features
 Flask deployment will be initial an HTML file. From the web page, the user can feed an image for classification by loading a selected image via the file selection option. The user will then prompt the application to begin the classification pipeline by submitting the image via the “Classify” button.
 
+ <img src="Flask Demo.png" alt="Logo" width="480" height="400">
 
 ## Author
 Contributors names and contact info
