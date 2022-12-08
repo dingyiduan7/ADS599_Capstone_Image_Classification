@@ -18,7 +18,7 @@ import sklearn
 import flask
 ```
 
-## Dataset Description:
+## Dataset Description
 Dataset Name: Chest X-Ray Images (Pneumonia)
 
 Source: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
